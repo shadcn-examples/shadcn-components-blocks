@@ -5,7 +5,7 @@ import ReactGA from "react-ga4";
 
 export default function GoogleAnalyticsInit() {
   useEffect(() => {
-    const GA_KEY = process.env.GA_KEY;
+    const GA_KEY = process.env.NEXT_PUBLIC_GA_KEY;
 
     if (!GA_KEY) {
       console.error("Google Analytics key not provided.");
