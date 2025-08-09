@@ -1,0 +1,335 @@
+[
+  {
+    "title": "Base Components",
+    "items": [
+      {
+        "title": "Accordion",
+        "url": "/accordion",
+        "meta": {
+          "description": "A vertically stacked set of interactive headings that each reveal a section of content."
+        }
+      },
+      {
+        "title": "Alert",
+        "url": "/alert",
+        "meta": {
+          "description": "Displays a callout for user attention."
+        }
+      },
+      {
+        "title": "Alert Dialog",
+        "url": "/alert-dialog",
+        "meta": {
+          "description": "A modal dialog that interrupts the user with important content and expects a response."
+        }
+      },
+      {
+        "title": "Avatar",
+        "url": "/avatar",
+        "meta": {
+          "description": "An image element with fallbacks for representing the user."
+        }
+      },
+      {
+        "title": "Badge",
+        "url": "/badge",
+        "meta": {
+          "description": "Displays a badge or status indicator."
+        }
+      },
+      {
+        "title": "Breadcrumb",
+        "url": "/breadcrumb",
+        "meta": {
+          "description": "Displays a breadcrumb navigation."
+        }
+      },
+      {
+        "title": "Button",
+        "url": "/button",
+        "meta": {
+          "description": "Displays a button or a component that looks like a button."
+        }
+      },
+      {
+        "title": "Calendar",
+        "url": "/calendar",
+        "meta": {
+          "description": "A date picker component with range and single date selection."
+        }
+      },
+      {
+        "title": "Card",
+        "url": "/card",
+        "meta": {
+          "description": "Displays a card with header, content, and footer."
+        }
+      },
+      {
+        "title": "Carousel",
+        "url": "/carousel",
+        "meta": {
+          "description": "A carousel component for cycling through a series of content."
+        }
+      },
+      {
+        "title": "Chart",
+        "url": "/chart",
+        "meta": {
+          "description": "Beautiful charts. Built using Recharts. Copy and paste into your apps."
+        }
+      },
+      {
+        "title": "Checkbox",
+        "url": "/checkbox",
+        "meta": {
+          "description": "A control that allows the user to toggle between checked and not checked."
+        }
+      },
+      {
+        "title": "Collapsible",
+        "url": "/collapsible",
+        "meta": {
+          "description": "Used to hide and show content with a smooth animation."
+        }
+      },
+      {
+        "title": "Combobox",
+        "url": "/combobox",
+        "meta": {
+          "description": "Combines a text input with a list of options."
+        }
+      },
+      {
+        "title": "Command",
+        "url": "/command",
+        "meta": {
+          "description": "Fast, composable command palette component."
+        }
+      },
+      {
+        "title": "Context Menu",
+        "url": "/context-menu",
+        "meta": {
+          "description": "Displays a menu to the user — triggered by a right click."
+        }
+      },
+      {
+        "title": "Data Table",
+        "url": "/data-table",
+        "meta": {
+          "description": "Display complex data in a table format with filtering, sorting and pagination."
+        }
+      },
+      {
+        "title": "Date Picker",
+        "url": "/date-picker",
+        "meta": {
+          "description": "A styled date picker component built using calendar."
+        }
+      },
+      {
+        "title": "Dialog",
+        "url": "/dialog",
+        "meta": {
+          "description": "A window overlaid on either the primary window or another dialog window."
+        }
+      },
+      {
+        "title": "Drawer",
+        "url": "/drawer",
+        "meta": {
+          "description": "A panel that slides out from the edge of the screen."
+        }
+      },
+      {
+        "title": "Dropdown Menu",
+        "url": "/dropdown-menu",
+        "meta": {
+          "description": "Displays a menu to the user — triggered by a button."
+        }
+      },
+      {
+        "title": "Hover Card",
+        "url": "/hover-card",
+        "meta": {
+          "description": "For sighted users to preview content available behind a link."
+        }
+      },
+      {
+        "title": "Input",
+        "url": "/input",
+        "meta": {
+          "description": "Displays a form input field or a component that looks like an input field."
+        }
+      },
+      {
+        "title": "Input OTP",
+        "url": "/input-otp",
+        "meta": {
+          "description": "Accessible one-time password component with copy paste functionality."
+        }
+      },
+      {
+        "title": "Menubar",
+        "url": "/menubar",
+        "meta": {
+          "description": "Displays a menu bar with nested menus."
+        }
+      },
+      {
+        "title": "Navigation Menu",
+        "url": "/navigation-menu",
+        "meta": {
+          "description": "A set of layered menu items—triggered by hover or click."
+        }
+      },
+      {
+        "title": "Pagination",
+        "url": "/pagination",
+        "meta": {
+          "description": "Pagination with page navigation, next and previous links."
+        }
+      },
+      {
+        "title": "Popover",
+        "url": "/popover",
+        "meta": {
+          "description": "A pop-up element that appears next to a trigger element."
+        }
+      },
+      {
+        "title": "Progress",
+        "url": "/progress",
+        "meta": {
+          "description": "Displays an indicator showing the completion progress of a task."
+        }
+      },
+      {
+        "title": "Radio Group",
+        "url": "/radio-group",
+        "meta": {
+          "description": "A set of checkable buttons—only one can be selected at a time."
+        }
+      },
+      {
+        "title": "Select",
+        "url": "/select",
+        "meta": {
+          "description": "Displays a list of options for the user to pick from—triggered by a button."
+        }
+      },
+      {
+        "title": "Sheet",
+        "url": "/sheet",
+        "meta": {
+          "description": "Extends the Dialog component to create panels that slide in from the edge of the screen."
+        }
+      },
+      {
+        "title": "Sidebar",
+        "url": "/sidebar",
+        "meta": {
+          "description": "A composable, themeable and customizable sidebar component."
+        }
+      },
+      {
+        "title": "Skeleton",
+        "url": "/skeleton",
+        "meta": {
+          "description": "Displays a placeholder preview of your content before it loads."
+        }
+      },
+      {
+        "title": "Slider",
+        "url": "/slider",
+        "meta": {
+          "description": "An input where the user selects a value from within a given range."
+        }
+      },
+      {
+        "title": "Switch",
+        "url": "/switch",
+        "meta": {
+          "description": "A control that allows the user to toggle between checked and not checked."
+        }
+      },
+      {
+        "title": "Tabs",
+        "url": "/tabs",
+        "meta": {
+          "description": "A set of layered sections of content—known as tab panels—that are displayed one at a time."
+        }
+      },
+      {
+        "title": "Toggle Group",
+        "url": "/toggle-group",
+        "meta": {
+          "description": "A set of two-state buttons that can be toggled on or off."
+        }
+      },
+      {
+        "title": "Tooltip",
+        "url": "/tooltip",
+        "meta": {
+          "description": "A popup that displays information related to an element when hovered."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Marketing",
+    "url": "#",
+    "items": [
+      {
+        "title": "Hero Sections",
+        "url": "/hero-sections",
+        "meta": {
+          "description": "Use these Tailwind CSS hero section examples to showcase messaging, product images, and calls-to-action at the top of your site, featuring various styles and layouts."
+        }
+      },
+      {
+        "title": "CTA Sections",
+        "url": "/cta-sections",
+        "meta": {
+          "description": "Use these Tailwind CSS CTA section examples to encourage visitors to take action and sign up, with various styles and layouts."
+        }
+      },
+      {
+        "title": "Pricing Sections",
+        "url": "/pricing-sections",
+        "meta": {
+          "description": "Use these Tailwind CSS pricing section examples to present your pricing model with various styles and layouts."
+        }
+      },
+      {
+        "title": "Newsletter Sections",
+        "url": "/newsletter-sections",
+        "meta": {
+          "description": "Use these Tailwind CSS newsletter section examples to convert visitors into email subscribers with various styles and layouts."
+        }
+      },
+      {
+        "title": "Testimonials",
+        "url": "/testimonials",
+        "meta": {
+          "description": "Use these Tailwind CSS testimonial examples to add social proof and build trust with visitors, featuring various styles and layouts."
+        }
+      },
+      {
+        "title": "Blog Sections",
+        "url": "/blog-sections",
+        "meta": {
+          "description": "Use these Tailwind CSS blog section examples to showcase engaging content from your blog across your site, with various styles and layouts."
+        }
+      },
+      {
+        "title": "Team Sections",
+        "url": "/team-sections",
+        "meta": {
+          "description": "Use these Tailwind CSS team section examples to introduce your team to customers, featuring various styles and layouts."
+        }
+      }
+    ]
+  }
+]

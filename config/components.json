@@ -1,0 +1,970 @@
+[
+  {
+    "title": "Components",
+    "href": "components",
+    "description": {
+      "site": "Explore ready-to-use shadcn/ui components. Copy and paste into your project.",
+      "meta": "Free & premium shadcn/ui components. Built using Tailwind CSS & React. Includes Typescript support."
+    },
+    "items": [
+      {
+        "title": "Cards",
+        "href": "cards",
+        "isView": true,
+        "items": [
+          {
+            "title": "Product Cards",
+            "href": "product",
+            "search_keys": [
+              "cards",
+              "product card",
+              "product cards",
+              "ecommerce",
+              "e-commerce"
+            ],
+            "isView": true,
+            "description": "Components that you can use to list products, including features such as title, description, image, price.",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "product-card-01"
+              },
+              {
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "product-card-02"
+              },
+              {
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "product-card-03"
+              }
+            ]
+          },
+          {
+            "title": "Product List",
+            "href": "product-list",
+            "search_keys": [
+              "product-list", "products"
+            ],
+            "isView": true,
+            "description": "Product listings showing basic information. Built with Tailwind CSS and shadcn/ui.",
+            "components": [
+              {
+                "name": "comp-1/index",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "product-list-card-01"
+              }
+            ]
+          },
+          {
+            "title": "Blog Cards",
+            "href": "blog",
+            "search_keys": [
+              "cards",
+              "blog cards",
+              "blog list cards",
+              "blog"
+            ],
+            "isView": true,
+            "description": "Blog cards are compact components that display a preview of content, including the title, image, and a brief description, to help users quickly browse.",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "blog-card-01"
+              },
+              {
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "blog-card-02"
+              }
+            ]
+          },
+          {
+            "title": "Stat Cards",
+            "href": "stat",
+            "search_keys": [
+              "stat cards"
+            ],
+            "isView": true,
+            "description": "Cards you can use to show a summary of your data in a beautiful way.",
+            "components": [
+              {
+                "title": "Sales overview",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "stat-card-01"
+              },
+              {
+                "title": "Website analytics",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "stat-card-02"
+              },
+              {
+                "title": "Sales pipeline",
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "stat-card-03"
+              },
+              {
+                "title": "Total earning",
+                "name": "comp-4",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "stat-card-04"
+              }
+            ]
+          },
+          {
+            "title": "Task Cards",
+            "search_keys": [
+              "task cards", "tasks"
+            ],
+            "isView": true,
+            "description": "Task card components that can be used in task management or project management applications.",
+            "href": "task",
+            "components": [
+              {
+                "title": "Simple task card",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "task-card-01"
+              },
+              {
+                "title": "Tasks marked on the list",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "task-card-02"
+              }
+            ]
+          },
+          {
+            "title": "Chat Bubbles",
+            "search_keys": [
+              "chat bubbles"
+            ],
+            "isView": true,
+            "description": "Message bubbles, user cards and more for your chat apps. Built with Tailwind CSS and shadcn/ui.",
+            "href": "chat-bubble",
+            "components": [
+              {
+                "title": "Simple",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "chat-bubble-card-01"
+              },
+              {
+                "title": "Chat area with fixed height.",
+                "name": "comp-2/index",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "chat-bubble-card-02"
+              },
+              {
+                "title": "Single message bubble.",
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "customHeight": 230,
+                "registryName": "chat-bubble-card-03"
+              },
+              {
+                "name": "comp-4",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "chat-bubble-card-04"
+              }
+            ]
+          },
+          {
+            "title": "Payment Methods",
+            "search_keys": [
+              "form", "payment form", "checkout form","payment methods"
+            ],
+            "isView": true,
+            "description": "Cards with payment methods and payment forms. Built with Tailwind CSS and shadcn/ui.",
+            "href": "payment-methods",
+            "components": [
+              {
+                "name": "comp-1/index",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "payment-method-01"
+              },
+              {
+                "name": "comp-2/index",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "payment-method-02"
+              }
+            ]
+          },
+          {
+            "title": "Review Cards",
+            "search_keys": [
+              "review cards", "rating"
+            ],
+            "isView": true,
+            "description": "Cards to display your review data. Built with Tailwind CSS and shadcn/ui.",
+            "href": "review",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "review-card-01"
+              }
+            ]
+          },
+          {
+            "title": "Welcome Cards",
+            "search_keys": [
+              "welcome cards"
+            ],
+            "isView": true,
+            "description": "Welcome cards for dashboard apps.",
+            "href": "welcome",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "welcome-card-01"
+              },
+              {
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "welcome-card-02"
+              },
+              {
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "welcome-card-03"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Switch",
+        "href": "switch",
+        "isView": true,
+        "items": [
+          {
+            "title": "Theme Switcher",
+            "search_keys": [
+              "theme switcher", "dark", "light"
+            ],
+            "isView": true,
+            "description": "A component with a switch button to toggle between light and dark themes.",
+            "href": "theme-switcher",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": false,
+                "isPro": false,
+                "registryName": "theme-switcher-01"
+              },
+              {
+                "name": "comp-2",
+                "responsive": false,
+                "isPro": false,
+                "registryName": "theme-switcher-02"
+              },
+              {
+                "name": "comp-3",
+                "responsive": false,
+                "isPro": false,
+                "customHeight": 200,
+                "registryName": "theme-switcher-03"
+              }
+            ]
+          },
+          {
+            "title": "Switch Cards",
+            "short_title": "Cards",
+            "search_keys": [
+              "switch cards"
+            ],
+            "isView": true,
+            "description": "Examples of components that switches and cards use together.",
+            "href": "cards",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "cards-01"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Skeleton",
+        "href": "skeleton",
+        "isView": true,
+        "items": [
+          {
+            "title": "Skeleton Table",
+            "short_title": "Tables",
+            "search_keys": [
+              "skeleton table", "spinner"
+            ],
+            "isView": true,
+            "description": "Placeholder animations that can be used in tables.",
+            "href": "table",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "table-01"
+              }
+            ]
+          },
+          {
+            "title": "Skeleton Cards",
+            "short_title": "Cards",
+            "search_keys": [
+              "skeleton cards", "spinner"
+            ],
+            "isView": true,
+            "description": "Placeholder animations that can be used in cards.",
+            "href": "cards",
+            "components": [
+              {
+                "title": "User",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "cards-01"
+              },
+              {
+                "title": "Blog",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "cards-02"
+              }
+            ]
+          },
+          {
+            "title": "Skeleton List",
+            "short_title": "Lists",
+            "search_keys": [
+              "skeleton list", "spinner"
+            ],
+            "isView": true,
+            "description": "Placeholder animations that can be used in lists.",
+            "href": "list",
+            "components": [
+              {
+                "title": "List",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "list-01"
+              },
+              {
+                "title": "Avatar group",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "list-02"
+              },
+              {
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "list-03"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Dropdown Menu",
+        "href": "dropdown-menu",
+        "isView": true,
+        "items": [
+          {
+            "title": "User Dropdown Menu",
+            "short_title": "User Menus",
+            "search_keys": [
+              "dropdown",
+              "user dropdown",
+              "user menu",
+              "action menu"
+            ],
+            "isView": true,
+            "description": "Dropdown menu components that display basic user-related actions.",
+            "href": "user-menus",
+            "components": [
+              {
+                "title": "Account",
+                "name": "comp-1",
+                "responsive": false,
+                "isPro": false,
+                "customHeight": 340,
+                "registryName": "user-dropdown-01"
+              },
+              {
+                "title": "Action menu",
+                "name": "comp-2",
+                "responsive": false,
+                "isPro": false,
+                "customHeight": 280,
+                "registryName": "user-dropdown-02"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Date Picker",
+        "href": "date-picker",
+        "isView": true,
+        "items": [
+          {
+            "title": "Use Cases",
+            "search_keys": [
+              "date picker", "datetime"
+            ],
+            "isView": true,
+            "description": "It is a component that allows you to easily select date ranges. You can make faster selections with date filters such as yesterday, this week, this month, this year. See usage examples.",
+            "href": "use-cases",
+            "components": [
+              {
+                "title": "Basic",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "use-cases-01"
+              },
+              {
+                "title": "Date range picker",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "use-cases-02"
+              },
+              {
+                "title": "Advanced date range picker",
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "use-cases-03"
+              },
+              {
+                "title": "Advanced date range picker with input",
+                "name": "comp-4",
+                "responsive": true,
+                "isPro": true,
+                "customHeight": 400,
+                "registryName": "use-cases-04"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Form",
+        "href": "form",
+        "isView": true,
+        "items": [
+          {
+            "title": "Authentication Forms",
+            "short_title": "Authentication",
+            "search_keys": [
+              "forms", "authentication forms", "login", "register", "sign-in", "signup"
+            ],
+            "isView": true,
+            "description": "Components for non-logged in users such as login form, registration form, otp form.",
+            "href": "authentication",
+            "components": [
+              {
+                "title": "Login form",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "authentication-01"
+              },
+              {
+                "title": "Login form with social buttons",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "authentication-02"
+              },
+              {
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "authentication-03"
+              },
+              {
+                "name": "comp-4",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "authentication-04"
+              },
+              {
+                "title": "Register form",
+                "name": "comp-5",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "authentication-04"
+              },
+              {
+                "title": "OTP form",
+                "name": "comp-6",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "authentication-05"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Charts",
+        "href": "charts",
+        "isView": true,
+        "items": [
+          {
+            "title": "E-commerce Charts",
+            "short_title": "E-commerce",
+            "href": "ecommerce",
+            "search_keys": [
+              "ecommerce", "charts", "rechart"
+            ],
+            "isView": true,
+            "description": "Pre-made chart components for your e-commerce applications. Built using Recharts.",
+            "components": [
+              {
+                "title": "Total revenue chart",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "ecommerce-chart-01"
+              },
+              {
+                "title": "Total revenue",
+                "name": "comp-2/index",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "ecommerce-chart-02"
+              },
+              {
+                "title": "Store visits by source",
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "ecommerce-chart-03"
+              },
+              {
+                "title": "Returning rate",
+                "name": "comp-4",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "ecommerce-chart-04"
+              }
+            ]
+          },
+          {
+            "title": "Project Management",
+            "short_title": "Project Management",
+            "href": "project-management",
+            "search_keys": [
+              "project", "charts", "rechart"
+            ],
+            "isView": true,
+            "description": "Pre-made chart components for your project management apps.",
+            "components": [
+              {
+                "title": "Project efficiency",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "project-management-chart-01"
+              },
+              {
+                "title": "Success graph by years",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "project-management-chart-02"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blocks & Sections",
+    "href": "blocks",
+    "description": {
+      "site": "Explore ready-to-use shadcn/ui blocks and sections. Copy and paste into your project.",
+      "meta": "Free & premium shadcn/ui block & sections. Built using Tailwind CSS & React. Includes Typescript support."
+    },
+    "items": [
+      {
+        "title": "Ecommerce",
+        "href": "ecommerce",
+        "isView": true,
+        "items": [
+          {
+            "title": "Product List",
+            "search_keys": [
+              "product list", "products", "section", "blocks"
+            ],
+            "isView": true,
+            "description": "Product List showcases a collection of items, allowing users to browse and explore available products.",
+            "href": "product-list",
+            "components": [
+              {
+                "name": "comp-1/index",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "product-list-01"
+              }
+            ]
+          },
+          {
+            "title": "Product Details",
+            "search_keys": [
+              "product detail", "product show", "section", "product info", "sections", "blocks"
+            ],
+            "isView": true,
+            "description": "Use these product overview components to create beautiful pages that showcase all the details of your products. Perfect for highlighting your items clearly.",
+            "href": "product-details",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": false,
+                "title": "Product detail example in its simplest form.",
+                "registryName": "product-details-01"
+              },
+              {
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "title": "Product detail example with images displayed as a gallery.",
+                "registryName": "product-details-02"
+              },
+              {
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "title": "Product detail example with images displayed as a gallery.",
+                "registryName": "product-details-03"
+              }
+            ]
+          },
+          {
+            "title": "Product Features",
+            "search_keys": [
+              "product features", "sections", "blocks"
+            ],
+            "isView": true,
+            "description": "Use these components to create more focused landing pages for your store with detailed descriptions and high-quality images.",
+            "href": "product-features",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "title": "With split image",
+                "registryName": "product-features-01"
+              },
+              {
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "title": "With tabs",
+                "registryName": "product-features-02"
+              }
+            ]
+          },
+          {
+            "title": "Shopping Carts",
+            "search_keys": [
+              "checkout", "shopping carts", "basket", "payment"
+            ],
+            "isView": true,
+            "description": "Use these Tailwind CSS shopping cart components to provide customers with an overview of their selected items, including quantities, pricing, and the ability to update or remove products before checkout.",
+            "href": "shopping-carts",
+            "components": [
+              {
+                "title": "Two column",
+                "name": "comp-1/index",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "shopping-carts-01"
+              },
+              {
+                "title": "Slide-over",
+                "name": "comp-2/index",
+                "responsive": true,
+                "isPro": true,
+                "customHeight": 800,
+                "registryName": "shopping-carts-02"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Marketing",
+        "href": "marketing",
+        "isView": true,
+        "items": [
+          {
+            "title": "Navbars",
+            "search_keys": [
+              "nav",
+              "navbar",
+              "menu",
+              "menu bar",
+              "header"
+            ],
+            "isView": true,
+            "description": "A navbar is a horizontal or vertical menu that helps users navigate a website.",
+            "href": "navbars",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "navbar-01",
+                "customHeight": 600
+              },
+              {
+                "title": "Centered navbar",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "navbar-02",
+                "customHeight": 400
+              },
+              {
+                "title": "E-commerce navbar",
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "navbar-03",
+                "customHeight": 600
+              }
+            ]
+          },
+          {
+            "title": "Hero Sections",
+            "search_keys": [
+              "hero",
+              "hero sections"
+            ],
+            "isView": true,
+            "description": "Hero section is the top area of a webpage designed to capture attention and leave a strong first impression.",
+            "href": "hero-sections",
+            "components": [
+              {
+                "title": "With announcement area",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "hero-sections-01"
+              },
+              {
+                "title": "An example with avatar and review summaries",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "hero-sections-02"
+              },
+              {
+                "title": "More customized header and announcement areas",
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "hero-sections-03"
+              }
+            ]
+          },
+          {
+            "title": "CTA Sections",
+            "search_keys": [
+              "cta",
+              "call to action",
+              "cta sections"
+            ],
+            "isView": true,
+            "description": "CTA sections are designed to encourage user action through clear and compelling calls-to-action",
+            "href": "cta-sections",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "cta-sections-01"
+              },
+              {
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "cta-sections-02"
+              },
+              {
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "cta-sections-03"
+              },
+              {
+                "name": "comp-4",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "cta-sections-04"
+              }
+            ]
+          },
+          {
+            "title": "Pricing Tables",
+            "search_keys": [
+              "price",
+              "pricing",
+              "pricing tables"
+            ],
+            "isView": true,
+            "description": "Use these Tailwind CSS pricing section examples to explain your pricing model to potential customers.",
+            "href": "pricing-tables",
+            "components": [
+              {
+                "title": "Single pricing card",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "pricing-tables-01"
+              },
+              {
+                "title": "Toggle between monthly and yearly billing cycles.",
+                "name": "comp-2/index",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "pricing-tables-02"
+              },
+              {
+                "title": "Toggle between monthly and yearly billing cycles.",
+                "name": "comp-3/index",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "pricing-tables-03"
+              }
+            ]
+          },
+          {
+            "title": "Footers",
+            "search_keys": [
+              "footer"
+            ],
+            "isView": true,
+            "description": "Various footer sections for websites created with Tailwind CSS.",
+            "href": "footers",
+            "components": [
+              {
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "footer-01"
+              },
+              {
+                "title": "With social links",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "footer-02"
+              },
+              {
+                "title": "With CTA section",
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "footer-03"
+              },
+              {
+                "name": "comp-4",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "footer-4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Authentication",
+        "href": "authentication",
+        "isView": true,
+        "items": [
+          {
+            "title": "Login Pages",
+            "search_keys": [
+              "authentication",
+              "login",
+              "login page",
+              "register",
+              "sign in",
+              "sign up",
+              "form"
+            ],
+            "isView": true,
+            "description": "Login pages provide a user-friendly interface for secure access to your application or platform.",
+            "href": "login",
+            "components": [
+              {
+                "title": "Simple",
+                "name": "comp-1",
+                "responsive": true,
+                "isPro": false,
+                "registryName": "login-01"
+              },
+              {
+                "title": "With cover image",
+                "name": "comp-2",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "login-01"
+              },
+              {
+                "title": "With background image",
+                "name": "comp-3",
+                "responsive": true,
+                "isPro": true,
+                "registryName": "login-01"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
