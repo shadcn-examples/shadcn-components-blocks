@@ -36,7 +36,7 @@ export function SiteHeader() {
           <HeaderSearch />
         </div>
         <Button className="ms-2" asChild>
-          <Link href="https://github.com/shadcn-examples/shadcn-components" target="_blank">
+          <Link href="https://github.com/shadcn-examples/shadcn-components-blocks" target="_blank">
             <GithubIcon /> Github
           </Link>
         </Button>
