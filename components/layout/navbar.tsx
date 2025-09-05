@@ -10,10 +10,10 @@ export default function Navbar() {
     <nav
       style={{ height: "calc(var(--spacing) * 14)" }}
       className="group-has-data-[collapsible=icon] bg-background/40 sticky top-0 z-50 flex shrink-0 items-center gap-2 px-4 backdrop-blur-md transition-[width,height] ease-linear">
-      <div className="flex grow grid-cols-3 items-center justify-between lg:block lg:grid">
+      <div className="flex grow grid-cols-3 items-center justify-between lg:grid">
         <Logo />
 
-        <div className="mx-auto hidden max-w-96 lg:block">
+        <div className="mx-auto hidden max-w-md w-full lg:block">
           <HeaderSearch />
         </div>
 

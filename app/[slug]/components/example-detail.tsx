@@ -15,7 +15,7 @@ export default function ExampleDetail({ example }: { example: Example }) {
     <div className="container mx-auto space-y-8 px-4">
       <header className="max-w-3xl space-y-3 lg:space-y-3">
         <h1 className="text-2xl font-semibold lg:text-4xl">{nav?.title}</h1>
-        <p className="text-muted-foreground lg:text-lg">{nav?.meta.description}</p>
+        <p className="text-muted-foreground lg:text-lg">{nav?.description}</p>
       </header>
 
       <div

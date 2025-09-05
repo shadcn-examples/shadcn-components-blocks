@@ -3,6 +3,9 @@ import DemoPageGenerator from "@/app/preview/[...slug]/demo-page-generator";
 import { Metadata } from "next";
 import data from "@/config/component-tree.json";
 import navData from "@/config/nav.json";
+import componentTree from "@/config/component-tree.json";
+import { capitalizeFirstLetter } from "@/lib/utils";
+
 
 export async function generateMetadata({
   params
@@ -17,14 +20,16 @@ export async function generateMetadata({
     .flatMap((section) => section.items ?? [])
     .find((item) => item.url.replace("/", "") === category);
 
-  if (!nav) return {};
+  const currentComponentData = componentTree.find((e) => e.url === slug);
+
+  if (!nav || !currentComponentData) return {};
 
   return {
-    title: `${nav.title} - Shadcn UI Components and Blocks`,
+    title: `${nav.title} - Shadcn ${capitalizeFirstLetter(currentComponentData.type)}s`,
     description: nav.meta.description,
     openGraph: {
       images: ["/og-image.png"]
-    }
+    },
   };
 }
 

@@ -59,7 +59,7 @@ export default async function Image({ params }: { params: Promise<{ slug: string
           <div style={{ display: "flex" }}>
             <img width={48} height={48} src={logoBase64} alt="..." />
           </div>
-          <span style={{ fontSize: 28 }}>Shadcncomponents</span>
+          <span style={{ fontSize: 28 }}>Shadcn Components</span>
         </div>
         <div
           style={{
@@ -75,21 +75,21 @@ export default async function Image({ params }: { params: Promise<{ slug: string
           }}>
           <b>{nav.title}</b>
           <div tw="flex">
-            <a tw="flex gap-3 h-20 items-center justify-center rounded-full bg-black px-7 py-4 text-2xl font-medium text-white">
-              View Demo <span style={{ display: "flex", marginLeft: "30px" }}>&#62;</span>
+            <a tw="flex gap-3 h-20 items-center justify-center rounded-full bg-black px-12 py-4 text-2xl font-medium text-white">
+              View Demo <span style={{ display: "flex", marginLeft: "15px" }}>&#8594;</span>
             </a>
           </div>
         </div>
         <div
           style={{
             display: "flex",
-            fontSize: 30,
+            fontSize: 36,
             fontStyle: "normal",
             color: "#666",
             lineHeight: 1.8,
             whiteSpace: "pre-wrap"
           }}>
-          <b>{nav.meta.description}</b>
+          <b>{nav.description}</b>
         </div>
       </div>
     ),

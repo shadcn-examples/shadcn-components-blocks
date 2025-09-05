@@ -9,20 +9,20 @@ import { SidebarTrigger } from "@/components/ui/sidebar";
 export function SiteHeader() {
   return (
     <header className="flex h-(--header-height) shrink-0 items-center gap-2 px-4 transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-(--header-height)">
-      <div className="ms-auto hidden max-w-96 lg:block">
+      <div className="ms-auto hidden max-w-xl w-full md:block">
         <HeaderSearch />
       </div>
 
-      <div className="flex grow items-center justify-between gap-2 lg:hidden">
+      <div className="flex grow items-center justify-between gap-2 md:hidden">
         <SidebarTrigger />
         <Logo />
-        <div className="ms-auto flex items-center">
+        <div className="ms-auto flex items-center gap-2">
           <HeaderSearch />
           <MenuSheet />
         </div>
       </div>
 
-      <div className="ms-auto hidden items-center lg:flex">
+      <div className="ms-auto hidden items-center md:flex">
         <Button variant="ghost" asChild>
           <Link href="/">Home</Link>
         </Button>
@@ -32,7 +32,7 @@ export function SiteHeader() {
         <Button variant="ghost" asChild>
           <Link href="/blocks">Blocks</Link>
         </Button>
-        <div className="block max-w-96 lg:hidden">
+        <div className="block max-w-96 md:hidden">
           <HeaderSearch />
         </div>
         <Button className="ms-2" asChild>

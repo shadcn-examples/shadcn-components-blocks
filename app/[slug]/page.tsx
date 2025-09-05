@@ -3,6 +3,8 @@ import { Metadata } from "next";
 import ExampleDetail from "./components/example-detail";
 import { Example } from "@/types/example";
 import navData from "@/config/nav.json";
+import componentTree from "@/config/component-tree.json";
+import { capitalizeFirstLetter } from "@/lib/utils";
 
 export async function generateMetadata({
   params
@@ -15,10 +17,12 @@ export async function generateMetadata({
     .flatMap((section) => section.items ?? [])
     .find((item) => item.url.replace("/", "") === slug);
 
-  if (!nav) return {};
+  const currentComponentData = componentTree.find((e) => e.url === slug);
+
+  if (!nav || !currentComponentData) return {};
 
   return {
-    title: `${nav.title} - Shadcn UI & Tailwind CSS Components and Blocks`,
+    title: `${nav.title} - Shadcn ${capitalizeFirstLetter(currentComponentData.type)}s`,
     description: nav.meta.description
   };
 }

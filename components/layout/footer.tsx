@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="grid grid-cols-2 gap-6 lg:grid-cols-3">
             <div>
               <h4 className="text-foreground mb-4 font-semibold">Components</h4>
-              <ul className="text-muted-foreground space-y-3 text-sm">
+              <ul className="text-muted-foreground space-y-3 text-sm grid md:grid-cols-2">
                 {filteredComponents.map((item, i) => (
                   <li key={i}>
                     <Link href={item.url} className="hover:text-foreground hover:underline">

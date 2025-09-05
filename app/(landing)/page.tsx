@@ -4,11 +4,11 @@ import { Metadata } from "next";
 import BlockSection from "@/components/sections/block-section";
 
 export const metadata: Metadata = {
-  title: "Shadcncomponents: Components and blocks for Shadcn UI, Tailwind CSS and React",
+  title: "Shadcn Components: Pre-built UI components and blocks for faster project building",
   description:
     "100+ real-world UI components for shadcn/ui, Tailwind, and React. Expert-designed, fully responsive, and ready to use in any modern web project.",
   openGraph: {
-    images: ["/opengraph-image.png"]
+    images: ["/og-image.png"]
   }
 };
 

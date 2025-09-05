@@ -1,9 +1,9 @@
 export default function HeroSection() {
   return (
-    <div className="mx-auto flex max-w-4xl flex-col items-center justify-center space-y-10 px-6 text-center">
+    <div className="mx-auto flex max-w-5xl flex-col items-center justify-center space-y-10 px-6 text-center">
       <div className="space-y-4">
-        <h1 className="font-display text-3xl font-bold text-balance lg:text-5xl lg:leading-14">
-          The ultimate blocks and components for Shadcn UI & Tailwind CSS
+        <h1 className="font-display text-3xl md:text-4xl font-bold text-balance lg:text-5xl lg:leading-14">
+          Pre-built UI components and blocks for faster project building
         </h1>
 
         <p className="text-muted-foreground leading-relaxed text-balance lg:text-xl">

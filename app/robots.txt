@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+disallow: '/preview/',
 
 Sitemap: https://shadcncomponents.dev/sitemap.xml

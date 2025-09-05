@@ -4,275 +4,314 @@
     "items": [
       {
         "title": "Accordion",
+        "description": "A vertically stacked set of interactive headings that each reveal a section of content.",
         "url": "/accordion",
         "meta": {
-          "description": "A vertically stacked set of interactive headings that each reveal a section of content."
+          "description": "Interactive React accordion component with Tailwind CSS, Shadcn UI & Radix UI. Expand and collapse content sections easily."
         }
       },
       {
         "title": "Alert",
+        "description": "Displays a callout for user attention.",
         "url": "/alert",
         "meta": {
-          "description": "Displays a callout for user attention."
+          "description": "Displays a callout for user attention. React alert component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Alert Dialog",
+        "description": "A modal dialog that interrupts the user with important content and expects a response.",
         "url": "/alert-dialog",
         "meta": {
-          "description": "A modal dialog that interrupts the user with important content and expects a response."
+          "description": "Captures user attention with an important modal prompt requiring a response. React alert dialog component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Avatar",
+        "description": "An image element with fallbacks for representing the user.",
         "url": "/avatar",
         "meta": {
-          "description": "An image element with fallbacks for representing the user."
+          "description": "An image element with fallback options to represent users. React avatar component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Badge",
+        "description": "Displays a badge or status indicator.",
         "url": "/badge",
         "meta": {
-          "description": "Displays a badge or status indicator."
+          "description": "Shows a badge or status indicator to highlight information. React badge component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Breadcrumb",
+        "description": "Displays a breadcrumb navigation.",
         "url": "/breadcrumb",
         "meta": {
-          "description": "Displays a breadcrumb navigation."
+          "description": "Provides breadcrumb navigation for easy site hierarchy tracking. React breadcrumb component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Button",
+        "description": "Displays a button or a component that looks like a button.",
         "url": "/button",
         "meta": {
-          "description": "Displays a button or a component that looks like a button."
+          "description": "Showcasing a customizable React button component built with Tailwind CSS, Shadcn UI & Radix UI for your projects."
         }
       },
       {
         "title": "Calendar",
+        "description": "A date picker component with range and single date selection.",
         "url": "/calendar",
         "meta": {
-          "description": "A date picker component with range and single date selection."
+          "description": "A date picker component supporting single and range selection. React calendar component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Card",
+        "description": "Displays a card with header, content, and footer.",
         "url": "/card",
         "meta": {
-          "description": "Displays a card with header, content, and footer."
+          "description": "A card component showcasing a header, content, and footer section. React card component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Carousel",
+        "description": "A carousel component for cycling through a series of content.",
         "url": "/carousel",
         "meta": {
-          "description": "A carousel component for cycling through a series of content."
+          "description": "A carousel component for smoothly cycling through multiple content items. React carousel component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Chart",
+        "description": "Beautiful charts. Built using Recharts. Copy and paste into your apps.",
         "url": "/chart",
         "meta": {
-          "description": "Beautiful charts. Built using Recharts. Copy and paste into your apps."
+          "description": "Create beautiful and interactive charts for your projects. React chart component built with Recharts, Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Checkbox",
+        "description": "A control that allows the user to toggle between checked and not checked.",
         "url": "/checkbox",
         "meta": {
-          "description": "A control that allows the user to toggle between checked and not checked."
+          "description": "A control that lets users toggle between checked and unchecked states. React checkbox component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Collapsible",
+        "description": "Used to hide and show content with a smooth animation.",
         "url": "/collapsible",
         "meta": {
-          "description": "Used to hide and show content with a smooth animation."
+          "description": "Toggle content visibility with smooth animations using a collapsible component. React collapsible component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Combobox",
+        "description": "Combines a text input with a list of options.",
         "url": "/combobox",
         "meta": {
-          "description": "Combines a text input with a list of options."
+          "description": "A text input paired with a selectable list of options. React combobox component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Command",
+        "description": "Fast, composable command palette component.",
         "url": "/command",
         "meta": {
-          "description": "Fast, composable command palette component."
+          "description": "A fast and composable command palette for efficient navigation. React command component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Context Menu",
+        "description": "Displays a menu to the user — triggered by a right click.",
         "url": "/context-menu",
         "meta": {
-          "description": "Displays a menu to the user — triggered by a right click."
+          "description": "A menu that appears on right-click for quick actions. React context menu component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Data Table",
+        "description": "Display complex data in a table format with filtering, sorting and pagination.",
         "url": "/data-table",
         "meta": {
-          "description": "Display complex data in a table format with filtering, sorting and pagination."
+          "description": "Organize and display complex data with sorting, filtering, and pagination. React data table component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Date Picker",
+        "description": "A styled date picker component built using calendar.",
         "url": "/date-picker",
         "meta": {
-          "description": "A styled date picker component built using calendar."
+          "description": "A styled component for selecting dates easily. React date picker built with Calendar, Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Dialog",
+        "description": "A window overlaid on either the primary window or another dialog window.",
         "url": "/dialog",
         "meta": {
-          "description": "A window overlaid on either the primary window or another dialog window."
+          "description": "An overlay window that appears above the main or another dialog. React dialog component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Drawer",
+        "description": "A panel that slides out from the edge of the screen.",
         "url": "/drawer",
         "meta": {
-          "description": "A panel that slides out from the edge of the screen."
+          "description": "A sliding panel that appears from the screen edge. React drawer component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Dropdown Menu",
+        "description": "Displays a menu to the user — triggered by a button.",
         "url": "/dropdown-menu",
         "meta": {
-          "description": "Displays a menu to the user — triggered by a button."
+          "description": "A menu that opens on button click for easy selection. React dropdown menu component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Hover Card",
+        "description": "For sighted users to preview content available behind a link.",
         "url": "/hover-card",
         "meta": {
-          "description": "For sighted users to preview content available behind a link."
+          "description": "Allows users to preview content on hover before clicking a link. React hover card component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Input",
+        "description": "Displays a form input field or a component that looks like an input field.",
         "url": "/input",
         "meta": {
-          "description": "Displays a form input field or a component that looks like an input field."
+          "description": "A form input field for user data entry or interactive input. React input component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Input OTP",
+        "description": "Accessible one-time password component with copy paste functionality.",
         "url": "/input-otp",
         "meta": {
-          "description": "Accessible one-time password component with copy paste functionality."
+          "description": "An accessible one-time password input with copy-paste support. React OTP input component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Menubar",
+        "description": "Displays a menu bar with nested menus.",
         "url": "/menubar",
         "meta": {
-          "description": "Displays a menu bar with nested menus."
+          "description": "A menu bar component with nested menus for easy navigation. React menubar component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Navigation Menu",
+        "description": "A set of layered menu items—triggered by hover or click.",
         "url": "/navigation-menu",
         "meta": {
-          "description": "A set of layered menu items—triggered by hover or click."
+          "description": "A layered menu system triggered by hover or click for easy navigation. React navigation menu component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Pagination",
+        "description": "Pagination with page navigation, next and previous links.",
         "url": "/pagination",
         "meta": {
-          "description": "Pagination with page navigation, next and previous links."
+          "description": "Navigate through pages with next, previous, and page links. React pagination component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Popover",
+        "description": "A pop-up element that appears next to a trigger element.",
         "url": "/popover",
         "meta": {
-          "description": "A pop-up element that appears next to a trigger element."
+          "description": "A pop-up element that appears beside a trigger for extra information. React popover component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Progress",
+        "description": "Displays an indicator showing the completion progress of a task.",
         "url": "/progress",
         "meta": {
-          "description": "Displays an indicator showing the completion progress of a task."
+          "description": "Shows a visual indicator of task completion progress. React progress component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Radio Group",
+        "description": "A set of checkable buttons—only one can be selected at a time.",
         "url": "/radio-group",
         "meta": {
-          "description": "A set of checkable buttons—only one can be selected at a time."
+          "description": "A group of selectable buttons where only one option can be chosen. React radio group component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Select",
+        "description": "Displays a list of options for the user to pick from—triggered by a button.",
         "url": "/select",
         "meta": {
-          "description": "Displays a list of options for the user to pick from—triggered by a button."
+          "description": "A selectable list of options triggered by a button for user choice. React select component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Sheet",
+        "description": "Extends the Dialog component to create panels that slide in from the edge of the screen.",
         "url": "/sheet",
         "meta": {
-          "description": "Extends the Dialog component to create panels that slide in from the edge of the screen."
+          "description": "Panels that slide in from the screen edge, extending the dialog functionality. React sheet component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Sidebar",
+        "description": "A composable, themeable and customizable sidebar component.",
         "url": "/sidebar",
         "meta": {
-          "description": "A composable, themeable and customizable sidebar component."
+          "description": "A flexible sidebar component that’s composable, themeable, and customizable. React sidebar component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Skeleton",
+        "description": "Displays a placeholder preview of your content before it loads.",
         "url": "/skeleton",
         "meta": {
-          "description": "Displays a placeholder preview of your content before it loads."
+          "description": "A placeholder preview that mimics content layout before loading. React skeleton component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Slider",
+        "description": "An input where the user selects a value from within a given range.",
         "url": "/slider",
         "meta": {
-          "description": "An input where the user selects a value from within a given range."
+          "description": "An input control for selecting a value within a defined range. React slider component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Switch",
+        "description": "A control that allows the user to toggle between checked and not checked.",
         "url": "/switch",
         "meta": {
-          "description": "A control that allows the user to toggle between checked and not checked."
+          "description": "A toggle control that lets users switch between on and off states. React switch component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Tabs",
+        "description": "A set of layered sections of content—known as tab panels—that are displayed one at a time.",
         "url": "/tabs",
         "meta": {
-          "description": "A set of layered sections of content—known as tab panels—that are displayed one at a time."
+          "description": "Organize content into tab panels, displaying one section at a time. React tabs component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Toggle Group",
+        "description": "A set of two-state buttons that can be toggled on or off.",
         "url": "/toggle-group",
         "meta": {
-          "description": "A set of two-state buttons that can be toggled on or off."
+          "description": "A group of toggle buttons allowing on/off states for each option. React toggle group component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       },
       {
         "title": "Tooltip",
+        "description": "A popup that displays information related to an element when hovered.",
         "url": "/tooltip",
         "meta": {
-          "description": "A popup that displays information related to an element when hovered."
+          "description": "A popup showing contextual information when hovering over an element. React tooltip component built with Tailwind CSS, Shadcn UI & Radix UI."
         }
       }
     ]
@@ -283,51 +322,58 @@
     "items": [
       {
         "title": "Hero Sections",
+        "description": "Use these Tailwind CSS hero section examples to showcase messaging, product images, and calls-to-action at the top of your site, featuring various styles and layouts.",
         "url": "/hero-sections",
         "meta": {
-          "description": "Use these Tailwind CSS hero section examples to showcase messaging, product images, and calls-to-action at the top of your site, featuring various styles and layouts."
+          "description": "Showcase key messaging, product images, and calls-to-action at the top of your site. Hero sections built with Tailwind CSS, Shadcn UI & React."
         }
       },
       {
         "title": "CTA Sections",
+        "description": "Use these Tailwind CSS CTA section examples to encourage visitors to take action and sign up, with various styles and layouts.",
         "url": "/cta-sections",
         "meta": {
-          "description": "Use these Tailwind CSS CTA section examples to encourage visitors to take action and sign up, with various styles and layouts."
+          "description": "Encourage visitors to take action and sign up with engaging CTA sections. Built with Tailwind CSS, Shadcn UI & React."
         }
       },
       {
         "title": "Pricing Sections",
+        "description": "Use these Tailwind CSS pricing section examples to present your pricing model with various styles and layouts.",
         "url": "/pricing-sections",
         "meta": {
-          "description": "Use these Tailwind CSS pricing section examples to present your pricing model with various styles and layouts."
+          "description": "Present your pricing plans clearly with stylish pricing sections. Built with Tailwind CSS, Shadcn UI & React."
         }
       },
       {
         "title": "Newsletter Sections",
+        "description": "Use these Tailwind CSS newsletter section examples to convert visitors into email subscribers with various styles and layouts.",
         "url": "/newsletter-sections",
         "meta": {
-          "description": "Use these Tailwind CSS newsletter section examples to convert visitors into email subscribers with various styles and layouts."
+          "description": "Convert visitors into email subscribers with engaging newsletter sections. Built with Tailwind CSS, Shadcn UI & React."
         }
       },
       {
         "title": "Testimonials",
+        "description": "Use these Tailwind CSS testimonial examples to add social proof and build trust with visitors, featuring various styles and layouts.",
         "url": "/testimonials",
         "meta": {
-          "description": "Use these Tailwind CSS testimonial examples to add social proof and build trust with visitors, featuring various styles and layouts."
+          "description": "Add social proof and build trust with stylish testimonial sections. Built with Tailwind CSS, Shadcn UI & React."
         }
       },
       {
         "title": "Blog Sections",
+        "description": "Use these Tailwind CSS blog section examples to showcase engaging content from your blog across your site, with various styles and layouts.",
         "url": "/blog-sections",
         "meta": {
-          "description": "Use these Tailwind CSS blog section examples to showcase engaging content from your blog across your site, with various styles and layouts."
+          "description": "Showcase engaging blog content across your site with stylish blog sections. Built with Tailwind CSS, Shadcn UI & React."
         }
       },
       {
         "title": "Team Sections",
+        "description": "Use these Tailwind CSS team section examples to introduce your team to customers, featuring various styles and layouts.",
         "url": "/team-sections",
         "meta": {
-          "description": "Use these Tailwind CSS team section examples to introduce your team to customers, featuring various styles and layouts."
+          "description": "Introduce your team to visitors with visually appealing team sections. Built with Tailwind CSS, Shadcn UI & React."
         }
       }
     ]
