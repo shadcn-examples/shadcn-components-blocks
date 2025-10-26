@@ -22,7 +22,7 @@ export async function generateMetadata({
   if (!nav || !currentComponentData) return {};
 
   return {
-    title: `${nav.title} - Shadcn ${capitalizeFirstLetter(currentComponentData.type)}s`,
+    title: `${nav.title} - Shadcn UI & Tailwind CSS ${capitalizeFirstLetter(currentComponentData.type)}s`,
     description: nav.meta.description
   };
 }

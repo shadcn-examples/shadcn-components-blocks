@@ -3,6 +3,7 @@ import path from "path";
 
 export const extractCodeFromFilePath = (filePath: string) => {
   const fullPath = path.resolve(process.cwd(), "examples", filePath);
+  console.log("fullPath", fullPath);
   return fs.readFileSync(fullPath, "utf-8");
 };
 

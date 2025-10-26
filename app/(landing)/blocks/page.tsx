@@ -14,7 +14,7 @@ export default function Page() {
   return (
     <main className="space-y-10 py-10 lg:space-y-20 lg:py-20">
       <div className="mx-auto flex max-w-3xl flex-col items-center justify-center space-y-10 px-6 text-center">
-        <h1 className="font-display text-3xl font-bold text-balance lg:text-5xl lg:leading-14">
+        <h1 className=" text-3xl font-heading text-balance lg:text-5xl">
           The ultimate blocks for Shadcn UI & Tailwind CSS
         </h1>
       </div>
