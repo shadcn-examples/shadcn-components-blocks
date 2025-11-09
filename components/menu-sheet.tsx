@@ -42,6 +42,12 @@ export function MenuSheet() {
           <Button variant="ghost" onClick={() => handleClick(false)} asChild>
             <Link href="/blocks">Blocks</Link>
           </Button>
+          <Button variant="ghost" onClick={() => handleClick(false)} asChild>
+            <Link href="https://shadcnexamples.com/" target="_blank">Examples</Link>
+          </Button>
+          <Button variant="ghost" onClick={() => handleClick(false)} asChild>
+            <Link href="https://shadcnuidashboard.com/" target="_blank">Admin Dashboard</Link>
+          </Button>
         </div>
         <SheetFooter>
           <SheetClose asChild>

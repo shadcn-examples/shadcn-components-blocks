@@ -34,6 +34,12 @@ export default function Navbar() {
           <Button variant="ghost" asChild>
             <Link href="/blocks">Blocks</Link>
           </Button>
+          <Button variant="ghost" asChild>
+            <Link href="https://shadcnexamples.com/" target="_blank">Examples</Link>
+          </Button>
+          <Button variant="ghost" asChild>
+            <Link href="https://shadcnuidashboard.com/" target="_blank">Admin Dashboard</Link>
+          </Button>
           <Button className="ms-2" asChild>
             <Link
               href="https://github.com/shadcn-examples/shadcn-components-blocks"
